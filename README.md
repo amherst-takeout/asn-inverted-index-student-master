@@ -180,3 +180,5 @@ pushed to the remote git server by the assigned due date.
 
 
 This is testing git functions
+
+This is testing from iMac
