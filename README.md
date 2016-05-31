@@ -177,3 +177,6 @@ You should also try to test the actors with empty implementations to ensure that
 You should make frequent git adds, commits, and pushes as you do your
 work. You should make sure that your final implementation has been
 pushed to the remote git server by the assigned due date.
+
+
+This is testing git functions
